@@ -6,4 +6,5 @@ https://www.udemy.com/course/git-completo-do-basico-ao-avancado/
 Participants:
 - Bruno Antunes da Silva
 - Rafael Teodoro
+- Hubner Braz
 - Mais um participante
